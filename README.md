@@ -9,7 +9,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 I'm a B.E. student at **MBM University, Jodhpur**
-- 💻 Building full-stack projects & AI-powered assistants
+- 💻 > CSE Student | Programmer | Exploring Code Every Day 💻🚀  
+> Passionate about web dev, AI, and building cool things that work.
 - 🧠 Currently focused on mastering:
   - JavaScript, Python, React,c++
   - MongoDB, SQLite, APIs
