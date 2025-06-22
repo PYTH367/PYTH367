@@ -8,7 +8,11 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a B.E. student at **MBM University, Jodhpur**
+Hi 👋! My name is Omprakash
+I'm a CSE student, currently learning DSA in C++ and exploring Full Stack Web Development. 🚀
+I’m building beginner-friendly projects to sharpen my skills and understand real-world coding. 💡
+I love experimenting with tech, learning by doing, and enjoying the journey of becoming a better developer. 💻✨
+
 - 💻 > CSE Student | Programmer | Exploring Code Every Day 💻🚀  
 > Passionate about web dev, AI, and building cool things that work.
 - 🧠 Currently focused on mastering:
