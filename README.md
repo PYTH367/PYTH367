@@ -1,5 +1,5 @@
 
-<h1 align="center"> Omprakash </h1>
+<h1 align="center"> WELCOME TO MY PROFILE </h1>
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=CSE+Student+%7C+Programmer;Building+Logic+One+Bug+at+a+Time...;Code.+Compile.+Conquer." />
 </p>
